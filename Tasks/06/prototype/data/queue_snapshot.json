@@ -1,0 +1,54 @@
+{
+  "checked_at": "2026-10-27T09:20:00+03:00",
+  "last_success_at": "2026-10-27T08:57:00+03:00",
+  "jobs": [
+    {
+      "id": 88414,
+      "order_no": "ORD-DEMO-7781",
+      "status": "pending",
+      "created_at": "2026-10-27T08:57:40+03:00",
+      "attempts": 12,
+      "last_error": "HTTP 422: counterparty not found (DEMO DATA)"
+    },
+    {
+      "id": 88415,
+      "order_no": "ORD-DEMO-7782",
+      "status": "pending",
+      "created_at": "2026-10-27T09:03:12+03:00",
+      "attempts": 0,
+      "last_error": ""
+    },
+    {
+      "id": 88416,
+      "order_no": "ORD-DEMO-7783",
+      "status": "failed",
+      "created_at": "2026-10-27T09:05:55+03:00",
+      "attempts": 6,
+      "last_error": "HTTP 503: exchange service temporarily unavailable (DEMO DATA)"
+    },
+    {
+      "id": 88417,
+      "order_no": "ORD-DEMO-7784",
+      "status": "pending",
+      "created_at": "2026-10-27T09:10:07+03:00",
+      "attempts": 0,
+      "last_error": ""
+    },
+    {
+      "id": 88418,
+      "order_no": "ORD-DEMO-7785",
+      "status": "pending",
+      "created_at": "2026-10-27T09:15:48+03:00",
+      "attempts": 0,
+      "last_error": ""
+    },
+    {
+      "id": 88419,
+      "order_no": "ORD-DEMO-7786",
+      "status": "done",
+      "created_at": "2026-10-27T08:55:21+03:00",
+      "attempts": 1,
+      "last_error": ""
+    }
+  ]
+}

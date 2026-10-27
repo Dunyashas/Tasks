@@ -1,0 +1,7 @@
+{
+  "warning_pending_count": 5,
+  "critical_oldest_pending_minutes": 15,
+  "critical_last_success_minutes": 10,
+  "warning_failed_count": 1,
+  "warning_attempts": 5
+}
